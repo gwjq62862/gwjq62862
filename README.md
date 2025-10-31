@@ -27,18 +27,6 @@ I focus on writing **clean code**, **reusable components**, and creating **smoot
 
 ---
 
-### ⚡ Featured Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gwjq62862&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gwjq62862&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwjq62862&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
 ### 💬 Fun Facts
 - 💻 I love building **modern, minimal web apps**  
 - 🌈 Design focus: **dark mode + glowing gradient**  
