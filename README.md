@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">🌌 Hi, I'm <span style="color:#e879f9;">Khali</span></h1>
-<h3 align="center">Full-Stack Developer | Building clean, modern, and creative web experiences</h3>
+<h3 align="center">Full-Stack Developer | Crafting clean, scalable, and beautiful web experiences</h3>
 
 <p align="center">
   <a href="https://khali-portfolio.vercel.app/" target="_blank">
@@ -15,23 +15,38 @@
 
 ### 🧠 About Me
 I'm a **17-year-old self-taught Full-Stack Developer** from **Myanmar**.  
-I’m a fast learner who loves modern UI design, strong architecture, and building scalable web apps.  
-I focus on writing **clean code**, **reusable components**, and creating **smooth user experiences**.
+I build **modern web apps** using the **MERN stack** and focus on creating smooth user experiences with clean UI design.  
+Constantly learning, improving, and building things that make the web feel alive.  
 
 ---
 
 ### 🎨 My Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,mongodb,postgres,git,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,mongodb,postgres,git,vscode&theme=dark" />
+</p>
+
+#### 🧰 Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shadcn%2FUI-18181B?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DaisyUI-9333EA?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+#### 🚀 Deployment Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" />
 </p>
 
 ---
 
 ### 💬 Fun Facts
-- 💻 I love building **modern, minimal web apps**  
-- 🌈 Design focus: **dark mode + glowing gradient**  
-- ⚙️ Favorite stack: **Next.js + Prisma + MongoDB + TailwindCSS**  
-- 🎮 I enjoy coding small creative side projects
+- 💻 I love building **dark, minimal web apps** with glowing colors ✨  
+- 🌈 Favorite design combo: **shadcn + Tailwind + Next.js**  
+- 🚀 Enjoy deploying full-stack apps on **Railway, Render, and Vercel**  
+- 🧩 Always experimenting with new UI ideas and micro animations  
 
 ---
 
